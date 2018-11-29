@@ -3,8 +3,12 @@
     font-family: 'Trebuchet MS';
     text-align: center;
     font-size: 50px;
+    
     box-sizing: border-box;
+   background-color:yellow;
+   
    }
+
    .wrapper {
 	display:flex;
 	flex-direction:row;
@@ -20,4 +24,5 @@
     width: 140px;
     height: 200px;
     }
+
 
