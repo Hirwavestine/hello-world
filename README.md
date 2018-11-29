@@ -1,2 +1,1 @@
-# hello-world
-just my new repository
+This is a README! It is for my GitHub repo Hello-world.
