@@ -1,0 +1,13 @@
+here are the javascript Learning goals:
+
+Understand JavaScript data types like strings and numbers
+
+Understand the roles that functions and variables serve in the language
+
+Break down a large function into smaller, more readable functions
+
+Adhere to standard naming conventions used in professional programming
+
+Create a functional object in javascript
+
+Create a dynamic program in javascript
